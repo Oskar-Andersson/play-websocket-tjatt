@@ -1,0 +1,53 @@
+#chatBoard {
+    font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+}
+
+#inputForm {
+    font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+    border: 0px solid black;
+    text-align: center;
+}
+#newMessage {
+    vertical-align: top;
+}
+
+.message {
+    background-color: #CED4BD;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.date {
+    font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+    font-size: 8pt;
+    float: right;
+}
+.message p {
+    padding-left: 15px;
+    margin-top: 10px;
+}
+.pre {
+    font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.titleText {
+    font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+    text-align: center;
+}
+
+.fatal {
+    opacity: 0.9;
+    background: none repeat scroll 0 0 #aaa;
+    color: black;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    padding-top: 200px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    font-family: Verdana,"Bitstream Vera Sans",sans-serif;
+    font-size: 16pt;
+}
